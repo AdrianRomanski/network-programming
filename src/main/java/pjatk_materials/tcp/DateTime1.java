@@ -1,4 +1,4 @@
-package pjatk_materials.client_server;
+package pjatk_materials.tcp;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
